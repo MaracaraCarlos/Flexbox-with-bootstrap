@@ -32,7 +32,7 @@ Users should be able to:
 
 ### Screenshot
 
-![alt text](image-1.png)
+![image](https://github.com/MaracaraCarlos/Flexbox-with-bootstrap/assets/113530553/69a92918-d942-463d-bc63-39871d00e9ff)
 
 
 ### Links
